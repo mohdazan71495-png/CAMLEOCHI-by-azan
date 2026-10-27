@@ -1,0 +1,6 @@
+{
+  "name": "AeroPulse",
+  "description": "Precision atmospheric, solar UV, air quality, and outdoor activity window field station with offline-first Room telemetry and hardware barometer integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

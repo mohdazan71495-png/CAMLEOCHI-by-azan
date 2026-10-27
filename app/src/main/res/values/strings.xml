@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AeroPulse</string>
+    <string name="app_tagline">Precision Atmospheric, Solar &amp; Activity Window Field Station</string>
+    <string name="nav_dashboard">Telemetry</string>
+    <string name="nav_windows">Windows</string>
+    <string name="nav_stations">Stations</string>
+    <string name="nav_sensors">Instrument</string>
+    <string name="nav_settings">Settings</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_start">Launch Station</string>
+    <string name="action_refresh">Sync Live Telemetry</string>
+    <string name="action_add_station">Add Field Station</string>
+    <string name="action_use_gps">Use Current GPS Coordinates</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="search_stations_hint">Search cities, peaks, or coordinates…</string>
+    <string name="error_network_offline">Showing cached Room SQLite telemetry. Check connection to refresh live Open-Meteo feed.</string>
+    <string name="privacy_notice_title">Local-First Privacy &amp; Security Architecture</string>
+    <string name="privacy_notice_body">AeroPulse stores your stations, custom activity rules, and barometer calibrations strictly on-device in an encrypted-ready Room SQLite database. Weather and air quality queries are transmitted over HTTPS to Open-Meteo without personal identifiers or account tracking.</string>
+</resources>
